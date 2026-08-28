@@ -1,2 +1,2 @@
 # Bond-Yield-Modeling
-A comprehensive framework for modeling, forecasting, and analyzing bond yields using classical finance theories (Nelson-Siegel, Vasicek, CIR) and modern machine learning (XGBoost, LSTMs). Includes data pipelines, yield curve construction, and risk metrics.
+A comprehensive framework for modeling, fitting, and analyzing bond yields using parametric (Nelson-Siegel) and non-parametric (Cubic Spline) techniques. This project explores yield curve dynamics for UK government securities (gilts) through covariance/correlation analysis and dimensionality reduction (PCA and SVD), with a focus on data quality, interpolation, and risk structure. Includes data pipelines for cleaning, aligning, and interpolating time-series data.
